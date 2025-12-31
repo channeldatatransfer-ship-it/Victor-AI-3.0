@@ -1,0 +1,8 @@
+{
+  "name": "J.A.R.V.I.S. Desktop Assistant",
+  "description": "A futuristic, voice-controlled AI assistant inspired by Iron Man, powered by Gemini 2.5 Flash Native Audio for real-time interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
